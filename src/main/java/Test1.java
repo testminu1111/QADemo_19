@@ -9,4 +9,11 @@ public class Test1 {
         System.out.println("Test 1");
     }
 
+
+
+   void m1(){
+
+        System.out.println("Test2 ");
+    }
+ 
 }
