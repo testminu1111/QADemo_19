@@ -11,7 +11,7 @@ public class Test1 {
 
 
 
-   void m1(){
+   void m2(){
 
         System.out.println("Test2 ");
     }
